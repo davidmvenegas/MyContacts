@@ -1,3 +1,3 @@
 # My Contacts
 
-## A better way to organize and keep track of your contacts
+### A better way to organize and keep track of your contacts
