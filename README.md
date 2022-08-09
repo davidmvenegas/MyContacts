@@ -1,4 +1,4 @@
-# My Contacts
+# MY CONTACTS
 
 ## Description
 
